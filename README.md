@@ -1,2 +1,2 @@
-# Reinforcement-Learning-Specialization
-[Coursera] Reinforcement Learning Specialization by "University of Alberta" &amp; "Alberta Machine Intelligence Institute"
+# Reinforcement Learning Specialization
+**[Coursera - Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning)**
